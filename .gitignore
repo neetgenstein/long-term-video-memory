@@ -1,8 +1,14 @@
 .env
 
 input_videos/*
+input_videos/.gitkeep
+
 output_frames/*
+output_frames/.gitkeep
+
 collages_folder/*
+collages_folder/.gitkeep
+
 env
 
 sceen_tree.json

@@ -1,0 +1,9 @@
+.env
+
+input_videos/*
+output_frames/*
+collages_folder/*
+env
+
+sceen_tree.json
+scene_tree.pkl
